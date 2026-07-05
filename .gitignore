@@ -1,0 +1,133 @@
+# ============================================
+# FLUTTER / DART
+# ============================================
+
+.dart_tool/
+.pub/
+.pub-cache/
+.build/
+build/
+flutter_*.png
+pubspec.lock
+*.lock
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+
+# ============================================
+# ANDROID
+# ============================================
+
+android/.gradle/
+android/.idea/
+android/local.properties
+android/*.iml
+android/*.keystore
+android/*.jks
+android/app/build/
+android/app/debug/
+android/app/outputs/
+android/build/
+android/captures/
+
+# ============================================
+# iOS
+# ============================================
+
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/App.framework/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+
+# ============================================
+# MACOS
+# ============================================
+
+macos/Pods/
+macos/.symlinks/
+macos/Flutter/Generated.xcconfig
+macos/Flutter/flutter_export_environment.sh
+macos/Flutter/Flutter.podspec
+
+# ============================================
+# LINUX
+# ============================================
+
+linux/flutter/ephemeral/
+
+# ============================================
+# WINDOWS
+# ============================================
+
+windows/flutter/ephemeral/
+windows/runner/debug_helpers.cpp
+windows/runner/debug_helpers.h
+
+# ============================================
+# WEB
+# ============================================
+
+web/favicon.png
+web/manifest.json
+
+# ============================================
+# IDE
+# ============================================
+
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ============================================
+# SYSTEM
+# ============================================
+
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# ============================================
+# GRADLE
+# ============================================
+
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+
+# ============================================
+# LOCAL ENVIRONMENT
+# ============================================
+
+.env
+*.env
+local.properties
+
+# ============================================
+# COVERAGE / TEST OUTPUTS
+# ============================================
+
+coverage/
+*.lcov
+*.gcov
+test_output/
+
+# ============================================
+# MISCELLANEOUS
+# ============================================
+
+*.bak
+*.orig
+*.rej
+*.patch
